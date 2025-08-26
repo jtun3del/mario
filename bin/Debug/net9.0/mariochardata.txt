@@ -1,0 +1,20 @@
+
+id:1 
+name: mario
+relationship to mario: him
+
+
+id:2 
+name: peach
+relationship to mario: prince
+
+
+id:3 
+name: yoshi
+relationship to mario: mount
+
+
+id:4 
+name: wario
+relationship to mario: evil
+

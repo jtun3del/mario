@@ -1,0 +1,14 @@
+C:\Users\jtunnicliff\RiderProjects\mariohomwrk\mariohomwrk\bin\Debug\net9.0\mariohomwrk.exe
+C:\Users\jtunnicliff\RiderProjects\mariohomwrk\mariohomwrk\bin\Debug\net9.0\mariohomwrk.deps.json
+C:\Users\jtunnicliff\RiderProjects\mariohomwrk\mariohomwrk\bin\Debug\net9.0\mariohomwrk.runtimeconfig.json
+C:\Users\jtunnicliff\RiderProjects\mariohomwrk\mariohomwrk\bin\Debug\net9.0\mariohomwrk.dll
+C:\Users\jtunnicliff\RiderProjects\mariohomwrk\mariohomwrk\bin\Debug\net9.0\mariohomwrk.pdb
+C:\Users\jtunnicliff\RiderProjects\mariohomwrk\mariohomwrk\obj\Debug\net9.0\mariohomwrk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jtunnicliff\RiderProjects\mariohomwrk\mariohomwrk\obj\Debug\net9.0\mariohomwrk.AssemblyInfoInputs.cache
+C:\Users\jtunnicliff\RiderProjects\mariohomwrk\mariohomwrk\obj\Debug\net9.0\mariohomwrk.AssemblyInfo.cs
+C:\Users\jtunnicliff\RiderProjects\mariohomwrk\mariohomwrk\obj\Debug\net9.0\mariohomwrk.csproj.CoreCompileInputs.cache
+C:\Users\jtunnicliff\RiderProjects\mariohomwrk\mariohomwrk\obj\Debug\net9.0\mariohomwrk.dll
+C:\Users\jtunnicliff\RiderProjects\mariohomwrk\mariohomwrk\obj\Debug\net9.0\refint\mariohomwrk.dll
+C:\Users\jtunnicliff\RiderProjects\mariohomwrk\mariohomwrk\obj\Debug\net9.0\mariohomwrk.pdb
+C:\Users\jtunnicliff\RiderProjects\mariohomwrk\mariohomwrk\obj\Debug\net9.0\mariohomwrk.genruntimeconfig.cache
+C:\Users\jtunnicliff\RiderProjects\mariohomwrk\mariohomwrk\obj\Debug\net9.0\ref\mariohomwrk.dll
